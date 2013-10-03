@@ -12,13 +12,11 @@ Implementar la clase `Adivinanza`.
 
 #### Operaciones:
 
-* Inicializar una instancia indicando la cantidad máxima de intentos disponibles para poder adivinar el número secreto.
+* Inicializar una instancia indicando la cantidad máxima de intentos disponibles para poder resolverla.
 
 * Arriesgar un valor.
 
 * Conocer la cantidad de intentos restantes.
-
-* Conocer la cantidad de intentos usados.
 
 ### Solución
 
