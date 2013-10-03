@@ -18,8 +18,6 @@ Implementar la clase `Adivinanza`.
 
 * Conocer la cantidad de intentos restantes.
 
-* Conocer la cantidad de intentos usados.
-
 ### Solución
 
 `Adivinanza.java` [ver](../master/src/Adivinanza.java)
